@@ -1,0 +1,103 @@
+{
+  "timestamp": "2026-05-11T19:05:41.331612",
+  "trends": [
+    {
+      "title": "OpenAI lanza GPT-5: todo lo que necesitas saber",
+      "url": "https://example.com/gpt5",
+      "content": "OpenAI has announced GPT-5...",
+      "source": "techcrunch",
+      "monetization_score": 0.92,
+      "discovered_at": "2026-05-11T19:05:40.030794",
+      "region": "es",
+      "id": "trend_000"
+    },
+    {
+      "title": "Nuevas regulaciones de IA en Europa 2026",
+      "url": "https://example.com/ai-regulations",
+      "content": "The European Commission announces new AI regulations...",
+      "source": "reuters",
+      "monetization_score": 0.88,
+      "discovered_at": "2026-05-11T19:05:40.030794",
+      "region": "es",
+      "id": "trend_001"
+    },
+    {
+      "title": "Agentes IA autónomos: el futuro del trabajo",
+      "url": "https://example.com/autonomous-agents",
+      "content": "Autonomous AI agents are transforming businesses...",
+      "source": "linkedin",
+      "monetization_score": 0.85,
+      "discovered_at": "2026-05-11T19:05:40.030794",
+      "region": "es",
+      "id": "trend_002"
+    },
+    {
+      "title": "VPN security: what changed in 2026",
+      "url": "https://example.com/vpn-security",
+      "content": "New VPN security standards announced...",
+      "source": "hacker_news",
+      "monetization_score": 0.78,
+      "discovered_at": "2026-05-11T19:05:40.030794",
+      "region": "es",
+      "id": "trend_003"
+    },
+    {
+      "title": "Python Data Science frameworks comparación",
+      "url": "https://example.com/python-ds",
+      "content": "Comparing modern Python data science tools...",
+      "source": "medium",
+      "monetization_score": 0.72,
+      "discovered_at": "2026-05-11T19:05:40.030794",
+      "region": "es",
+      "id": "trend_004"
+    }
+  ],
+  "scripts": [
+    {
+      "title": "OpenAI lanza GPT-5: todo lo que necesitas saber",
+      "trend_id": "trend_000",
+      "monetization_score": 0.92,
+      "platform": "tiktok",
+      "duration_seconds": 60,
+      "script": "\n[COMPLIANCE NOTICE]\n⚠️ Este contenido ha sido creado con asistencia de IA para entretenimiento.\nConsulta nuestra política de privacidad (RGPD) en nuestro sitio.\n\n\n[Visual description]\nSecuencia dinámica sobre: OpenAI lanza GPT-5: todo lo que necesitas saber\nTransiciones rápidas cada 3-5s, colores vibrantes, textos en movimiento\n\n[Voiceover script]\n¿Sabías que...? OpenAI lanza GPT-5... te sorprenderá lo que descubrimos.\nOpenAI lanza GPT-5: todo lo que necesitas saber es el tema del momento y te mostramos por qué.\nMira hasta el final, créeme que vale la pena.\n\n[On-screen text]\n🚀 OpenAI lanza GPT-5: todo lo que necesitas saber\n⚡ Top trending ahora\n✨ No te lo pierdas\n\n[CTA]\n📱 Like, Follow, Comenta 👇\n\n---\n⏱️ Duración: 60s\n📱 Plataforma: tiktok",
+      "generated_at": "2026-05-11T19:05:40.613218"
+    },
+    {
+      "title": "Nuevas regulaciones de IA en Europa 2026",
+      "trend_id": "trend_001",
+      "monetization_score": 0.88,
+      "platform": "tiktok",
+      "duration_seconds": 60,
+      "script": "\n[COMPLIANCE NOTICE]\n⚠️ Este contenido ha sido creado con asistencia de IA para entretenimiento.\nConsulta nuestra política de privacidad (RGPD) en nuestro sitio.\n\n\n[Visual description]\nSecuencia dinámica sobre: Nuevas regulaciones de IA en Europa 2026\nTransiciones rápidas cada 3-5s, colores vibrantes, textos en movimiento\n\n[Voiceover script]\n¿Sabías que...? Nuevas regulaciones de IA en Europa 2026... te sorprenderá lo que descubrimos.\nNuevas regulaciones de IA en Europa 2026 es el tema del momento y te mostramos por qué.\nMira hasta el final, créeme que vale la pena.\n\n[On-screen text]\n🚀 Nuevas regulaciones de IA en Europa 2026\n⚡ Top trending ahora\n✨ No te lo pierdas\n\n[CTA]\n📱 Like, Follow, Comenta 👇\n\n---\n⏱️ Duración: 60s\n📱 Plataforma: tiktok",
+      "generated_at": "2026-05-11T19:05:40.791656"
+    },
+    {
+      "title": "Agentes IA autónomos: el futuro del trabajo",
+      "trend_id": "trend_002",
+      "monetization_score": 0.85,
+      "platform": "tiktok",
+      "duration_seconds": 60,
+      "script": "\n[COMPLIANCE NOTICE]\n⚠️ Este contenido ha sido creado con asistencia de IA para entretenimiento.\nConsulta nuestra política de privacidad (RGPD) en nuestro sitio.\n\n\n[Visual description]\nSecuencia dinámica sobre: Agentes IA autónomos: el futuro del trabajo\nTransiciones rápidas cada 3-5s, colores vibrantes, textos en movimiento\n\n[Voiceover script]\n¿Sabías que...? Agentes IA autónomos... te sorprenderá lo que descubrimos.\nAgentes IA autónomos: el futuro del trabajo es el tema del momento y te mostramos por qué.\nMira hasta el final, créeme que vale la pena.\n\n[On-screen text]\n🚀 Agentes IA autónomos: el futuro del trabajo\n⚡ Top trending ahora\n✨ No te lo pierdas\n\n[CTA]\n📱 Like, Follow, Comenta 👇\n\n---\n⏱️ Duración: 60s\n📱 Plataforma: tiktok",
+      "generated_at": "2026-05-11T19:05:40.965898"
+    },
+    {
+      "title": "VPN security: what changed in 2026",
+      "trend_id": "trend_003",
+      "monetization_score": 0.78,
+      "platform": "tiktok",
+      "duration_seconds": 60,
+      "script": "\n[COMPLIANCE NOTICE]\n⚠️ Este contenido ha sido creado con asistencia de IA para entretenimiento.\nConsulta nuestra política de privacidad (RGPD) en nuestro sitio.\n\n\n[Visual description]\nSecuencia dinámica sobre: VPN security: what changed in 2026\nTransiciones rápidas cada 3-5s, colores vibrantes, textos en movimiento\n\n[Voiceover script]\n¿Sabías que...? VPN security... te sorprenderá lo que descubrimos.\nVPN security: what changed in 2026 es el tema del momento y te mostramos por qué.\nMira hasta el final, créeme que vale la pena.\n\n[On-screen text]\n🚀 VPN security: what changed in 2026\n⚡ Top trending ahora\n✨ No te lo pierdas\n\n[CTA]\n📱 Like, Follow, Comenta 👇\n\n---\n⏱️ Duración: 60s\n📱 Plataforma: tiktok",
+      "generated_at": "2026-05-11T19:05:41.141961"
+    },
+    {
+      "title": "Python Data Science frameworks comparación",
+      "trend_id": "trend_004",
+      "monetization_score": 0.72,
+      "platform": "tiktok",
+      "duration_seconds": 60,
+      "script": "\n[COMPLIANCE NOTICE]\n⚠️ Este contenido ha sido creado con asistencia de IA para entretenimiento.\nConsulta nuestra política de privacidad (RGPD) en nuestro sitio.\n\n\n[Visual description]\nSecuencia dinámica sobre: Python Data Science frameworks comparación\nTransiciones rápidas cada 3-5s, colores vibrantes, textos en movimiento\n\n[Voiceover script]\n¿Sabías que...? Python Data Science frameworks comparación... te sorprenderá lo que descubrimos.\nPython Data Science frameworks comparación es el tema del momento y te mostramos por qué.\nMira hasta el final, créeme que vale la pena.\n\n[On-screen text]\n🚀 Python Data Science frameworks comparación\n⚡ Top trending ahora\n✨ No te lo pierdas\n\n[CTA]\n📱 Like, Follow, Comenta 👇\n\n---\n⏱️ Duración: 60s\n📱 Plataforma: tiktok",
+      "generated_at": "2026-05-11T19:05:41.324089"
+    }
+  ],
+  "region": "es"
+}

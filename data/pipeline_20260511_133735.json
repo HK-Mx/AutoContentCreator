@@ -1,0 +1,27 @@
+{
+  "timestamp": "2026-05-11T13:37:35.009578",
+  "trends": [
+    {
+      "title": "OpenAI lanza GPT-5: todo lo que necesitas saber",
+      "url": "https://example.com/gpt5",
+      "content": "OpenAI has announced GPT-5...",
+      "source": "techcrunch",
+      "monetization_score": 0.92,
+      "discovered_at": "2026-05-11T13:37:34.451609",
+      "region": "es",
+      "id": "trend_000"
+    }
+  ],
+  "scripts": [
+    {
+      "title": "OpenAI lanza GPT-5: todo lo que necesitas saber",
+      "trend_id": "trend_000",
+      "monetization_score": 0.92,
+      "platform": "tiktok",
+      "duration_seconds": 60,
+      "script": "\n[COMPLIANCE NOTICE]\n⚠️ Este contenido ha sido creado con asistencia de IA para entretenimiento.\nConsulta nuestra política de privacidad (RGPD) en nuestro sitio.\n\n\n[Visual description]\nSecuencia dinámica sobre: OpenAI lanza GPT-5: todo lo que necesitas saber\nTransiciones rápidas cada 3-5s, colores vibrantes, textos en movimiento\n\n[Voiceover script]\n¿Sabías que...? OpenAI lanza GPT-5... te sorprenderá lo que descubrimos.\nOpenAI lanza GPT-5: todo lo que necesitas saber es el tema del momento y te mostramos por qué.\nMira hasta el final, créeme que vale la pena.\n\n[On-screen text]\n🚀 OpenAI lanza GPT-5: todo lo que necesitas saber\n⚡ Top trending ahora\n✨ No te lo pierdas\n\n[CTA]\n📱 Like, Follow, Comenta 👇\n\n---\n⏱️ Duración: 60s\n📱 Plataforma: tiktok",
+      "generated_at": "2026-05-11T13:37:34.995572"
+    }
+  ],
+  "region": "es"
+}
